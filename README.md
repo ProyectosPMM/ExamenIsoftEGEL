@@ -1,7 +1,7 @@
 # EGEL INGENIERIA DE SOFTWARE
 
 ## Guia interactiva ISOFT (el registro es gratis)
-### [Diagnóstico del problema y valoración de la factibilidad para el desarrollo de sistemas de información](https://guias-egel.ceneval.edu.mx/login.php?src=isoft)
+### https://guias-egel.ceneval.edu.mx/login.php?src=isoft
 
 ## Análisis de sistemas de información
 ### Diagnóstico del problema y valoración de la factibilidad para el desarrollo de sistemas de información
