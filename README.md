@@ -1,5 +1,8 @@
 # EGEL INGENIERIA DE SOFTWARE
 
+## Guia interactiva ISOFT (el registro es gratis)
+### [Diagnóstico del problema y valoración de la factibilidad para el desarrollo de sistemas de información](https://guias-egel.ceneval.edu.mx/login.php?src=isoft)
+
 ## Análisis de sistemas de información
 ### Diagnóstico del problema y valoración de la factibilidad para el desarrollo de sistemas de información
 * Control de la definición de alcance: En la etapa inicial del proyecto, la factibilidad es la urgencia del problema y una primera estimación de costos
