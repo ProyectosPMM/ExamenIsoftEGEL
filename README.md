@@ -1,10 +1,11 @@
 # EGEL INGENIERIA DE SOFTWARE
 
 ## Acceso a la Guía Interactiva
-Esta es la herramienta oficial más importante para practicar.
-Plataforma: CENEVAL ISOFT
-Costo: El registro es completamente gratuito.
-Enlace directo: https://guias-egel.ceneval.edu.mx/login.php?src=isoft
+Esta es la herramienta oficial más importante para practicar el examen.
+
+* **Plataforma:** CENEVAL ISOFT
+* **Costo:** El registro es **completamente gratuito**.
+* **Enlace directo:** [Guía Interactiva](https://guias-egel.ceneval.edu.mx/login.php?src=isoft)
 
 ## Análisis de sistemas de información
 ### Diagnóstico del problema y valoración de la factibilidad para el desarrollo de sistemas de información
